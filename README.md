@@ -3,4 +3,6 @@ using a pretrained object detection AI model to detect cars and showing them on 
 
 # setup
 npm install
+
+##
 replace "XXXXX" in the files to your path
