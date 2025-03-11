@@ -1,6 +1,5 @@
 # Car-Object-Detection-AI-pretained-
-using a pretrained object detection AI model to detect cars and showing them on a simple HTML where you can upload .mp4 files to be processed
-
+the project consists of a backend handling the video coded in python and the frontend in html+css+js where you can upload the video
 # setup
 npm install
 
