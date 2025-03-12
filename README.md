@@ -5,3 +5,7 @@ npm install
 
 ##
 replace "XXXXX" in the files to your path
+
+## Demo video
+https://github.com/user-attachments/assets/9b14c6b4-675d-46e5-8ea2-999778aeb569
+
